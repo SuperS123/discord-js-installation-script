@@ -1,3 +1,5 @@
+**i gave up on this script (i can make something better but come on, who really cares)**
+
 # Discord.js Installation Script
 
 Discord.js Installation Script is a script to make setting up a discord bot workspace easier..
